@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolinomCalculator", "PolinomCalculator\PolinomCalculator.csproj", "{7B8C7B6E-DE4B-4088-8A98-3E7C0A24BBE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolinomCalculatorTests", "PolinomCalculatorTests\PolinomCalculatorTests.csproj", "{A94B7EB2-DCBD-4A78-93C7-D0B807A48239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B8C7B6E-DE4B-4088-8A98-3E7C0A24BBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8C7B6E-DE4B-4088-8A98-3E7C0A24BBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8C7B6E-DE4B-4088-8A98-3E7C0A24BBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8C7B6E-DE4B-4088-8A98-3E7C0A24BBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A94B7EB2-DCBD-4A78-93C7-D0B807A48239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94B7EB2-DCBD-4A78-93C7-D0B807A48239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94B7EB2-DCBD-4A78-93C7-D0B807A48239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94B7EB2-DCBD-4A78-93C7-D0B807A48239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
